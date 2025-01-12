@@ -1,0 +1,204 @@
+---
+title: "FW840: Lab 1"
+author: "YOUR FIRST AND LAST NAME HERE"
+output: 
+  html_document: 
+    toc: true
+---
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+usethis::use_git_remote("origin", url = "https://github.com/pjhanly/FW840/Lab_1")
+```
+
+
+
+# R Exercise Introduction 
+Since our lab is so data and code driven, we have historically asked final candidates to complete an R, Python, or mapping exercise in order to assess their aptitude for these skills. The following exercise has been adapted from an undergraduate homework assignment from the MSU FW Limnology course from this year. The exercise includes some pre-run code to familiarize you with the topic and coding concepts involved followed by a prompt for you to complete. You will then submit as a knitted HTML file the final output. You are free to use any resources, including adapting online code you find, as long as you do not directly receive help from another person. You may want to check that both your R version and RStudio versions are up to date prior to beginning.
+
+The exercise will first go through the steps of downloading species occurrence data for one species from [GBIF](https://https://www.gbif.org/), the Global Biodiversity Information Facility, which includes species records from museums, community science platforms, and other datasets. The data will be accessed using an API (Application Programming Interface), allowing for download directly into the R session. The code will then present a few example maps and mapping packages, which you are free to adapt or modify as you see fit. You should also feel free to complete the exercise using different methods that you are more comfortable with, but this will not be treated as a criterion for assessment. The exercise will be assessed for (1) completeness, (2) understandable annotation of code which is important for sharing in our lab, and (3) the quality of the final figures or maps.
+
+# Coding Example Start
+Install required packages:
+```{r cars, warning=FALSE}
+library(rgbif) #Package for accessing GBIF API
+library(ggplot2) #Plotting library
+library(maps) #Basemap library
+library(hexbin) #Hexbin for plotting
+library(ggthemes) #Themes for plotting
+library(gganimate) #Animation library for ggplot
+library(gifski) #GIF-making library
+```
+
+## GBIF API Data Pull
+
+We will use the [occ_data()](https://rdrr.io/cran/rgbif/man/occ_data.html) function from the package rgbif to access the GBIF API for data. You can see the many toggles available to us for pulling data and that they are unique to this API. For these examples, we will map data for the **scientificName** of *Hyla versicolor*, or the gray treefrog. For this example pull, I will also specify **stateProvince** of Michigan and, importantly, specify **hasCoordinate = TRUE** since we only want occurrence records that have coordinates that we can map.
+
+Since we get much more information than we need, we also have to do some cleaning of the data pull to get something simpler to work with. First, we want to (1) take the data portion of the pull and turn it into a dataframes, (2) remove occurrence records without year reported, and (3) specify what columns we want to keep out of the 100+.
+
+**IMPORTANTLY**, we then save the data using **write.csv()** so that we have a local file for these data. We then don't have to pull data again from the API which can be time consuming and so that our data do not change. After writing this once, we can # out the API pull code so that it won't run each time we generate our report.
+
+```{r}
+
+#hyla_data <- occ_data(scientificName = c("Hyla versicolor"), stateProvince = "Michigan", hasCoordinate = TRUE, limit = 20000)
+
+#hyla_data <- as.data.frame(hyla_data$data)
+
+#hyla_data <- hyla_data[!is.na(hyla_data$year), ]
+
+#columns_to_keep <- c("key", "scientificName", "decimalLatitude", "decimalLongitude", "occurrenceStatus", "basisOfRecord", "gbifRegion", "stateProvince", "year", "datasetName")
+
+#hyla_data <- hyla_data[, columns_to_keep]
+
+#write.csv(hyla_data, file = "hyla_data.csv")
+```
+
+Next we can read back in our saved data to work with:
+
+```{r}
+hyla_data <- read.csv(file = "hyla_data.csv")
+```
+
+
+## Creating basemaps
+
+The packages we brought in above contain basemaps that we can use to plot our species occurrence data on top of. Here, we are saying we want a US county map that I have centered around Michigan with the x limit for our longitude range and y limit for our latitude range around the state. We also specify the colors we want for our map.
+
+```{r}
+michigan <- ggplot() +
+  borders("county", colour = "gray85", fill = "gray80", xlim = c(-89, -82), ylim = c(41.5, 48)) +
+  theme_map()
+michigan
+```
+
+We can also create world and U.S. basemaps in the same way. You can use these basemaps for your portion of the exercise.
+
+```{r}
+world <- ggplot() +
+  borders("world", colour = "gray85", fill = "gray80") +
+  theme_map() 
+world
+
+usa <- ggplot() +
+  borders("usa", colour = "gray85", fill = "gray80") +
+  theme_map() 
+usa
+```
+
+
+## Plotting Occurrence Data
+
+We can now plot our point data (a **vector** type) for the occurrence of *Hyla versicolor* in GBIF across Michigan. Just as we used '+' to layer maps in the previous exercise, we can layer points using **geom_point()** on top of our basemap, specifying the data source **hyla_data** and that our **aes()** or aesthetic uses the column **decimalLongitude** for the x data and the column **decimalLatitude** for the y data. We can also specify the size of our points using **size = **.
+
+We can layer on still more commands by specifying the title we want and the text size of that title.
+
+```{r}
+michigan +
+	geom_point(data = hyla_data, aes(decimalLongitude, decimalLatitude), size = 5) +
+	labs(title = 'GBIF Michigan Hyla versicolor') + 
+  theme(plot.title = element_text(size=28))
+```
+
+Although our data here are accurate, you can see a common issue with mapping where you have many overlapping points that make it difficult to see the actual density of the data. We call this overplotting. Next, we will go over three (of many) strategies to better visualize overlapping data.
+
+### 2D Density Plot
+
+One is to bin the data and instead plot the density as opposed to each individual point. Here, we do this with **geom_bin2d()**. Note that here instead of point size we specify the number of **bins = **. If you increase the number of bins, then you will get smaller bins and vice versa. If you use this method then you can adjust the bin size for one that makes sense for your occurrence data for visualization.
+
+We also specify the color ramp, again using the color-blind friendly palette viridis. 
+
+```{r}
+michigan +
+	geom_bin2d(data = hyla_data, aes(decimalLongitude, decimalLatitude), bins = 50) +
+  scale_fill_continuous(type = "viridis") +
+	labs(title = 'GBIF Michigan Hyla versicolor') +
+  theme(plot.title = element_text(size=28))
+```
+
+### Hexbin Plot
+
+A nearly identical method that many prefer visually is the hexbin plot, here using **geom_hex()**. For this, we will set a smaller number of bins to show how decreasing this number leads to larger areas to calculate point density.
+
+
+```{r}
+michigan +
+	geom_hex(data = hyla_data, aes(decimalLongitude, decimalLatitude), bins = 30) +
+  scale_fill_continuous(type = "viridis") +
+	labs(title = 'GBIF Michigan Hyla versicolor') +
+  theme(plot.title = element_text(size=28))
+
+```
+
+### Animated Occurrence Plot
+
+Finally, we can also plot occurrences through times using an animation. **NOTE:** Making an animation will be optional here but can be a useful skill to learn if you are up for a challenge. You can actually animate nearly any kind of plot, not just maps!
+
+We will again use **geom_point()** for plotting points, but we will change the **alpha = ** to a value below 1, which decreases point opacity.
+
+We specify that we want transitions between frames, **transition_reveal()** of our animation to be based on year observed. We also specify that each point is unique by specifying **group = ** the unique identifier named **key** in our data. Finally, we indicate that we want the title for each frame of our animation to be our year. This whole object called **ani_hyla** is our set of frames that we want to animate.
+
+Next, we use the **animate()** function to animate our above plot, specifying the pixel height and pixel width of the animation. You may need to change these proportions depending on what makes sense for your map. Finally, we specify that we want to render it as a gif using the **gifski_renderer()**.
+
+
+```{r}
+ani_hyla <- michigan +
+  geom_point(data = hyla_data,
+             aes(decimalLongitude, decimalLatitude, group = key), color = 'dark green', size = 5, alpha = 0.4) +
+  transition_reveal(year) +
+  labs(title = '{(frame_along)}') +
+  theme(plot.title = element_text(size=48))
+
+animate(ani_hyla, height = 800, width = 800, renderer = gifski_renderer())  
+```
+
+
+# Coding Exercise Start
+
+For this exercise, you will create your own maps to show the invasion of the non-native spiny water flea in the US:
+
+[Bythotrephes longimanus](https://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=162) **Spiny waterflea**
+
+In the RMarkdown file, we have provided three code chunks for you to work in, but feel free to add and annotate as many as you need to complete the exercise.
+
+
+### GBIF API Call
+
+Bring in the occurrence data for spiny water flea from the GBIF API using the **occ_data** function. Specify that the records have coordinates for all global records. This may take a few minutes to bring into your session, which is another reason why we want to only do this once!
+
+Clean data as in the tutorial by converting to a data frame, removing NA for year, and selecting the same columns as above 
+
+Save your data locally using **write.csv()** and # out your code once you have your local data so that it doesn't run again.
+
+```{r}
+
+```
+
+
+### Pre-Invasion Distribution 
+
+Make a map of the pre-invasion distribution of the species based on GBIF data by filtering the data frame to the years before it arrived in the U.S. or North America:
+
+
+```{r}
+
+```
+
+
+### U.S. Invasion Through Time
+
+Create a plot, series of plots, or animation that shows the spread of the invasive species through time for the U.S. or North America using a visualization method that deals with overplotting:
+
+
+```{r}
+
+```
+
+
+**What was the most common database source for your chosen species US occurrence data? Please find this by using R code:**
+
+```{r}
+
+```

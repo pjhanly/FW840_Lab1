@@ -1,0 +1,1207 @@
+"","key","scientificName","decimalLatitude","decimalLongitude","occurrenceStatus","basisOfRecord","gbifRegion","stateProvince","year","datasetName"
+"1","4096485627","Hyla versicolor LeConte, 1825",42.995412,-85.738845,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"2","4096873658","Hyla versicolor LeConte, 1825",42.998007,-85.466496,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"3","4091702029","Hyla versicolor LeConte, 1825",42.89141,-85.893549,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"4","4091660266","Hyla versicolor LeConte, 1825",42.994342,-85.738678,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"5","4096561705","Hyla versicolor LeConte, 1825",42.37324,-84.436035,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"6","4442630619","Hyla versicolor LeConte, 1825",42.303835,-83.729861,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"7","4096533272","Hyla versicolor LeConte, 1825",42.80915,-86.047349,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"8","4096994475","Hyla versicolor LeConte, 1825",42.417766,-83.289301,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"9","4103310956","Hyla versicolor LeConte, 1825",43.232108,-86.214344,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"10","4112176823","Hyla versicolor LeConte, 1825",42.936738,-85.129897,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"11","4430458304","Hyla versicolor LeConte, 1825",42.616756,-83.194042,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"12","4116058562","Hyla versicolor LeConte, 1825",42.76013,-84.385397,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"13","4116418396","Hyla versicolor LeConte, 1825",42.372876,-84.438288,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"14","4442489686","Hyla versicolor LeConte, 1825",45.130225,-87.648412,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"15","4127219360","Hyla versicolor LeConte, 1825",44.676154,-85.780478,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"16","4416737504","Hyla versicolor LeConte, 1825",46.545311,-87.467208,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"17","4129923739","Hyla versicolor LeConte, 1825",42.506232,-83.496073,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"18","4127167039","Hyla versicolor LeConte, 1825",42.237427,-84.010666,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"19","4129697885","Hyla versicolor LeConte, 1825",42.771708,-84.890751,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"20","4440617098","Hyla versicolor LeConte, 1825",42.980066,-85.756123,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"21","4440623715","Hyla versicolor LeConte, 1825",46.028306,-86.975119,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"22","4130102841","Hyla versicolor LeConte, 1825",44.375184,-86.173524,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"23","4130150832","Hyla versicolor LeConte, 1825",46.007332,-84.519308,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"24","4133611759","Hyla versicolor LeConte, 1825",42.696444,-83.614313,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"25","4442389715","Hyla versicolor LeConte, 1825",42.305725,-83.633503,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"26","4440718748","Hyla versicolor LeConte, 1825",45.968889,-84.07572,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"27","4137820676","Hyla versicolor LeConte, 1825",42.484833,-83.752579,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"28","4440645844","Hyla versicolor LeConte, 1825",44.105031,-85.386055,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"29","4138272844","Hyla versicolor LeConte, 1825",46.574291,-87.394783,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"30","4440650819","Hyla versicolor LeConte, 1825",43.621347,-84.304511,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"31","4440807844","Hyla versicolor LeConte, 1825",43.621574,-84.30554,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"32","4440751760","Hyla versicolor LeConte, 1825",42.396325,-83.94815,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"33","4138739067","Hyla versicolor LeConte, 1825",41.943929,-85.632493,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"34","4145409465","Hyla versicolor LeConte, 1825",42.338389,-83.637085,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"35","4153861776","Hyla versicolor LeConte, 1825",42.67376,-86.192877,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"36","4442471741","Hyla versicolor LeConte, 1825",44.413984,-84.148297,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"37","4440829844","Hyla versicolor LeConte, 1825",42.291375,-83.72121,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"38","4407152434","Hyla versicolor LeConte, 1825",42.425168,-84.082897,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"39","4171192771","Hyla versicolor LeConte, 1825",42.247437,-85.727806,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"40","4153615526","Hyla versicolor LeConte, 1825",42.372462,-84.435325,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"41","4153537620","Hyla versicolor LeConte, 1825",42.384714,-84.054679,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"42","4153874947","Hyla versicolor LeConte, 1825",42.379714,-85.589707,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"43","4153718191","Hyla versicolor LeConte, 1825",42.315495,-83.732105,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"44","4153737727","Hyla versicolor LeConte, 1825",42.501248,-82.906356,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"45","4440784830","Hyla versicolor LeConte, 1825",43.313308,-84.164486,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"46","4440595809","Hyla versicolor LeConte, 1825",41.963802,-85.732754,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"47","4440594847","Hyla versicolor LeConte, 1825",45.419673,-87.841992,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"48","4440791823","Hyla versicolor LeConte, 1825",45.419673,-87.841992,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"49","4440640907","Hyla versicolor LeConte, 1825",42.178734,-83.247063,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"50","4165532786","Hyla versicolor LeConte, 1825",43.04352,-85.65665,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"51","4440784880","Hyla versicolor LeConte, 1825",46.583566,-87.388467,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"52","4165432213","Hyla versicolor LeConte, 1825",47.294501,-88.404884,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"53","4165966873","Hyla versicolor LeConte, 1825",42.232157,-84.73573,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"54","4171666390","Hyla versicolor LeConte, 1825",45.721652,-87.048232,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"55","4171341930","Hyla versicolor LeConte, 1825",45.1968,-85.273863,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"56","4171843398","Hyla versicolor LeConte, 1825",42.731568,-83.153243,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"57","4171765791","Hyla versicolor LeConte, 1825",42.008763,-83.301218,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"58","4171561838","Hyla versicolor LeConte, 1825",47.241764,-88.325339,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"59","4172208839","Hyla versicolor LeConte, 1825",42.398513,-86.258645,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"60","4440806896","Hyla versicolor LeConte, 1825",42.247453,-83.6205,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"61","4172035504","Hyla versicolor LeConte, 1825",41.775787,-86.722166,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"62","4171823062","Hyla versicolor LeConte, 1825",41.775771,-86.722183,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"63","4172014665","Hyla versicolor LeConte, 1825",42.59611,-83.394694,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"64","4171542521","Hyla versicolor LeConte, 1825",42.340418,-84.121974,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"65","4172147453","Hyla versicolor LeConte, 1825",42.977962,-85.910422,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"66","4177027193","Hyla versicolor LeConte, 1825",44.665153,-85.80565,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"67","4440594925","Hyla versicolor LeConte, 1825",43.611744,-84.896736,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"68","4399913921","Hyla versicolor LeConte, 1825",42.682673,-83.056533,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"69","4440829936","Hyla versicolor LeConte, 1825",44.77934,-85.650078,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"70","4177452749","Hyla versicolor LeConte, 1825",42.243958,-85.163315,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"71","4440788970","Hyla versicolor LeConte, 1825",42.810648,-83.667418,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"72","4440728923","Hyla versicolor LeConte, 1825",44.377262,-86.2592,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"73","4440606983","Hyla versicolor LeConte, 1825",42.642775,-83.922856,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"74","4440836940","Hyla versicolor LeConte, 1825",42.159436,-84.307848,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"75","4399956747","Hyla versicolor LeConte, 1825",47.28742,-88.40489,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"76","4400472881","Hyla versicolor LeConte, 1825",42.430756,-85.446365,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"77","4400479973","Hyla versicolor LeConte, 1825",43.023211,-85.591225,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"78","4405020839","Hyla versicolor LeConte, 1825",43.313333,-84.164373,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"79","4440845968","Hyla versicolor LeConte, 1825",42.547262,-83.791978,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"80","4440899965","Hyla versicolor LeConte, 1825",42.568009,-83.393283,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"81","4440780954","Hyla versicolor LeConte, 1825",42.568009,-83.393283,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"82","4440644921","Hyla versicolor LeConte, 1825",42.159295,-83.229298,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"83","4440856994","Hyla versicolor LeConte, 1825",42.568009,-83.393283,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"84","4440780955","Hyla versicolor LeConte, 1825",42.895966,-82.490486,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"85","4405416647","Hyla versicolor LeConte, 1825",42.665285,-84.656552,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"86","4440649957","Hyla versicolor LeConte, 1825",44.011943,-85.531397,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"87","4440634998","Hyla versicolor LeConte, 1825",42.575819,-82.594307,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"88","4440893138","Hyla versicolor LeConte, 1825",42.763088,-86.13974,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"89","4407540543","Hyla versicolor LeConte, 1825",43.568537,-85.171662,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"90","4407584501","Hyla versicolor LeConte, 1825",44.78118,-85.65217,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"91","4440620041","Hyla versicolor LeConte, 1825",42.932392,-85.585732,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"92","4440597999","Hyla versicolor LeConte, 1825",42.973607,-85.750221,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"93","4440637041","Hyla versicolor LeConte, 1825",41.969637,-83.96768,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"94","4440846043","Hyla versicolor LeConte, 1825",42.901583,-83.033433,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"95","4413883501","Hyla versicolor LeConte, 1825",42.523823,-84.842392,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"96","4440605006","Hyla versicolor LeConte, 1825",42.720375,-84.479387,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"97","4414235676","Hyla versicolor LeConte, 1825",42.423973,-84.01961,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"98","4416909798","Hyla versicolor LeConte, 1825",42.540764,-84.087655,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"99","4440732105","Hyla versicolor LeConte, 1825",42.193126,-83.714581,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"100","4440631021","Hyla versicolor LeConte, 1825",42.529475,-84.64605,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"101","4442405969","Hyla versicolor LeConte, 1825",42.78133,-84.398378,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"102","4507597144","Hyla versicolor LeConte, 1825",43.417736,-84.214211,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"103","4454057316","Hyla versicolor LeConte, 1825",41.868006,-86.347201,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"104","4420934871","Hyla versicolor LeConte, 1825",42.36837,-83.35271,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"105","4442530002","Hyla versicolor LeConte, 1825",42.934238,-85.587412,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"106","4440639083","Hyla versicolor LeConte, 1825",42.652572,-84.500908,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"107","4440727052","Hyla versicolor LeConte, 1825",42.268414,-84.492996,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2023,"iNaturalist research-grade observations"
+"108","3764553739","Hyla versicolor LeConte, 1825",42.99398,-85.7379,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"109","4442371477","Hyla versicolor LeConte, 1825",42.188765,-84.153449,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"110","3773242844","Hyla versicolor LeConte, 1825",42.114682,-84.520372,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"111","3773645007","Hyla versicolor LeConte, 1825",42.923761,-85.544964,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"112","3773066905","Hyla versicolor LeConte, 1825",42.521044,-84.745936,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"113","3772524016","Hyla versicolor LeConte, 1825",42.497929,-86.175443,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"114","3773285929","Hyla versicolor LeConte, 1825",45.173999,-87.641038,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"115","4442393528","Hyla versicolor LeConte, 1825",44.723502,-85.836306,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"116","4442564486","Hyla versicolor LeConte, 1825",46.268681,-87.443449,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"117","3784685642","Hyla versicolor LeConte, 1825",42.258901,-85.62082,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"118","3784698637","Hyla versicolor LeConte, 1825",42.752476,-84.481818,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"119","4407082451","Hyla versicolor LeConte, 1825",43.054865,-83.83211,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"120","3802575804","Hyla versicolor LeConte, 1825",42.291627,-83.741459,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"121","4442398500","Hyla versicolor LeConte, 1825",42.703778,-86.197231,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"122","3802313901","Hyla versicolor LeConte, 1825",42.665764,-82.515053,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"123","3802522296","Hyla versicolor LeConte, 1825",43.254393,-86.134194,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"124","4440646505","Hyla versicolor LeConte, 1825",42.944217,-83.135042,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"125","4442383487","Hyla versicolor LeConte, 1825",45.234656,-83.506201,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"126","4442529484","Hyla versicolor LeConte, 1825",42.395199,-85.38512,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"127","3859751853","Hyla versicolor LeConte, 1825",46.49999,-84.32721,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"128","4442635499","Hyla versicolor LeConte, 1825",43.916141,-86.396672,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"129","4121303405","Hyla versicolor LeConte, 1825",42.713571,-84.658595,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"130","4442398513","Hyla versicolor LeConte, 1825",42.668493,-85.313913,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"131","3858813689","Hyla versicolor LeConte, 1825",44.010628,-85.009211,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"132","4029125814","Hyla versicolor LeConte, 1825",43.067442,-86.04641,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"133","4046492818","Hyla versicolor LeConte, 1825",43.041359,-83.815863,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"134","4440616182","Hyla versicolor LeConte, 1825",42.382764,-83.57214,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"135","3859194105","Hyla versicolor LeConte, 1825",42.875315,-82.558842,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"136","3859507382","Hyla versicolor LeConte, 1825",42.716682,-82.910152,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"137","4440598549","Hyla versicolor LeConte, 1825",47.216139,-88.393065,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"138","4440872529","Hyla versicolor LeConte, 1825",42.2814,-83.608824,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"139","3860772938","Hyla versicolor LeConte, 1825",44.045563,-84.718864,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"140","3859817399","Hyla versicolor LeConte, 1825",42.588002,-82.979588,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"141","3860194517","Hyla versicolor LeConte, 1825",41.909485,-84.559464,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"142","4440906556","Hyla versicolor LeConte, 1825",42.022619,-86.523061,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"143","4440754526","Hyla versicolor LeConte, 1825",42.179055,-83.613363,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"144","4442614524","Hyla versicolor LeConte, 1825",42.074892,-84.431239,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"145","4442397493","Hyla versicolor LeConte, 1825",42.58155,-86.153128,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"146","4442638504","Hyla versicolor LeConte, 1825",45.11342,-84.196137,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"147","4022300445","Hyla versicolor LeConte, 1825",46.597143,-87.457467,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"148","4442356532","Hyla versicolor LeConte, 1825",42.103035,-84.241089,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"149","4440871562","Hyla versicolor LeConte, 1825",43.807142,-82.908264,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"150","3858934172","Hyla versicolor LeConte, 1825",44.52392,-85.902936,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"151","4440845550","Hyla versicolor LeConte, 1825",45.67697,-87.29506,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"152","3873539797","Hyla versicolor LeConte, 1825",43.817917,-84.760397,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"153","3859900669","Hyla versicolor LeConte, 1825",43.805826,-86.422061,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"154","4404996435","Hyla versicolor LeConte, 1825",43.029889,-85.645958,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"155","3897005411","Hyla versicolor LeConte, 1825",42.886403,-84.478003,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2022,NA
+"156","3897006626","Hyla versicolor LeConte, 1825",42.886905,-84.477987,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2022,NA
+"157","3897006117","Hyla versicolor LeConte, 1825",46.3884,-87.03277,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2022,NA
+"158","3897007344","Hyla versicolor LeConte, 1825",46.388011,-87.03276,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2022,NA
+"159","4062777478","Hyla versicolor LeConte, 1825",45.211393,-83.463002,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"160","3860065189","Hyla versicolor LeConte, 1825",42.145137,-85.581779,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"161","4440633537","Hyla versicolor LeConte, 1825",42.391905,-84.591963,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"162","3873083424","Hyla versicolor LeConte, 1825",42.523333,-84.745738,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"163","3888834497","Hyla versicolor LeConte, 1825",42.295476,-85.701563,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"164","3873366813","Hyla versicolor LeConte, 1825",42.186205,-83.28768,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"165","4063035465","Hyla versicolor LeConte, 1825",42.329503,-85.175832,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"166","4062815437","Hyla versicolor LeConte, 1825",42.329392,-85.175694,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"167","3873734895","Hyla versicolor LeConte, 1825",46.583734,-87.388605,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"168","4440591579","Hyla versicolor LeConte, 1825",42.65394,-84.217606,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"169","4442383520","Hyla versicolor LeConte, 1825",41.828957,-86.696016,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"170","3881656402","Hyla versicolor LeConte, 1825",42.442184,-84.020223,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"171","4062593523","Hyla versicolor LeConte, 1825",42.848005,-83.539437,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"172","3881843687","Hyla versicolor LeConte, 1825",42.198396,-85.977674,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"173","3888864977","Hyla versicolor LeConte, 1825",45.234151,-83.507153,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"174","3888888849","Hyla versicolor LeConte, 1825",47.0931,-88.436848,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"175","3889152992","Hyla versicolor LeConte, 1825",45.419642,-87.841876,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"176","4062725468","Hyla versicolor LeConte, 1825",42.569347,-83.45517,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"177","3888722037","Hyla versicolor LeConte, 1825",42.698047,-83.471437,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"178","3892283581","Hyla versicolor LeConte, 1825",42.43323,-83.917022,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"179","3902627165","Hyla versicolor LeConte, 1825",42.943687,-85.592378,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"180","4055063459","Hyla versicolor LeConte, 1825",42.074792,-84.431253,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"181","4054793438","Hyla versicolor LeConte, 1825",42.074795,-84.431167,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"182","4442472544","Hyla versicolor LeConte, 1825",42.074737,-84.430565,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"183","4062803479","Hyla versicolor LeConte, 1825",45.744759,-85.545649,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"184","3892333828","Hyla versicolor LeConte, 1825",43.363622,-86.414594,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"185","3892464791","Hyla versicolor LeConte, 1825",44.379162,-84.862633,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"186","4062612477","Hyla versicolor LeConte, 1825",42.079299,-84.468349,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"187","4054867464","Hyla versicolor LeConte, 1825",42.08391,-85.360783,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"188","4055062482","Hyla versicolor LeConte, 1825",42.949927,-82.432249,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"189","4067256636","Hyla versicolor LeConte, 1825",42.995705,-85.739425,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"190","3902482326","Hyla versicolor LeConte, 1825",42.206753,-84.091792,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"191","4062707469","Hyla versicolor LeConte, 1825",47.024025,-88.390083,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"192","4062900500","Hyla versicolor LeConte, 1825",42.289383,-85.23111,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"193","3902797493","Hyla versicolor LeConte, 1825",42.86952,-85.714127,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"194","4062586474","Hyla versicolor LeConte, 1825",44.257325,-83.44583,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"195","4062916483","Hyla versicolor LeConte, 1825",42.497913,-86.237122,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"196","3902623124","Hyla versicolor LeConte, 1825",42.944855,-83.13575,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"197","3903282004","Hyla versicolor LeConte, 1825",42.784742,-85.460264,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"198","4062593505","Hyla versicolor LeConte, 1825",42.20832,-84.330353,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"199","4062596482","Hyla versicolor LeConte, 1825",42.216246,-86.225119,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"200","4062996500","Hyla versicolor LeConte, 1825",42.472913,-85.064392,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"201","3912140653","Hyla versicolor LeConte, 1825",42.602795,-83.102889,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"202","4062808510","Hyla versicolor LeConte, 1825",46.536705,-87.415763,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"203","4062721496","Hyla versicolor LeConte, 1825",43.80238,-85.839792,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"204","4062815456","Hyla versicolor LeConte, 1825",42.901591,-83.033403,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"205","4062705495","Hyla versicolor LeConte, 1825",42.238983,-85.484398,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"206","3915470745","Hyla versicolor LeConte, 1825",45.129742,-85.628555,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"207","3903352517","Hyla versicolor LeConte, 1825",42.581967,-83.224578,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"208","4062605486","Hyla versicolor LeConte, 1825",41.791382,-85.558556,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"209","4063093513","Hyla versicolor LeConte, 1825",42.931886,-85.582353,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"210","3903592658","Hyla versicolor LeConte, 1825",42.347443,-82.963821,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"211","3911982909","Hyla versicolor LeConte, 1825",42.641154,-84.640412,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"212","3912298767","Hyla versicolor LeConte, 1825",44.665138,-85.805633,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"213","3915666567","Hyla versicolor LeConte, 1825",47.100006,-88.595125,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"214","3923431785","Hyla versicolor LeConte, 1825",42.404484,-85.400269,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"215","3923342788","Hyla versicolor LeConte, 1825",42.216805,-84.43107,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"216","4062840503","Hyla versicolor LeConte, 1825",42.505694,-85.264175,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"217","4062937505","Hyla versicolor LeConte, 1825",42.95042,-83.321547,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"218","4063049516","Hyla versicolor LeConte, 1825",43.108038,-85.218846,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"219","3988734204","Hyla versicolor LeConte, 1825",42.372428,-83.823491,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"220","4062620526","Hyla versicolor LeConte, 1825",42.497996,-86.175085,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"221","3985718006","Hyla versicolor LeConte, 1825",42.736966,-83.419735,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"222","4006759649","Hyla versicolor LeConte, 1825",42.763888,-83.213045,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"223","4440962782","Hyla versicolor LeConte, 1825",43.385217,-83.978942,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2022,"iNaturalist research-grade observations"
+"224","3333183381","Hyla versicolor LeConte, 1825",42.236824,-83.752983,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"225","3097145568","Hyla versicolor LeConte, 1825",42.750707,-83.107156,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"226","3109045256","Hyla versicolor LeConte, 1825",44.123881,-84.429966,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"227","3109001292","Hyla versicolor LeConte, 1825",42.114952,-83.371928,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"228","3113262482","Hyla versicolor LeConte, 1825",42.887317,-85.632057,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"229","3109365467","Hyla versicolor LeConte, 1825",42.280808,-83.743038,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"230","3112820342","Hyla versicolor LeConte, 1825",41.753975,-83.629158,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"231","3112294127","Hyla versicolor LeConte, 1825",42.945263,-83.135917,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"232","3113566524","Hyla versicolor LeConte, 1825",42.764275,-84.373233,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"233","3118278543","Hyla versicolor LeConte, 1825",41.837976,-86.398662,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"234","3118365942","Hyla versicolor LeConte, 1825",42.338641,-83.637203,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"235","3117753172","Hyla versicolor LeConte, 1825",45.36488,-84.941467,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"236","3344006436","Hyla versicolor LeConte, 1825",42.338582,-83.637156,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"237","3343853474","Hyla versicolor LeConte, 1825",42.540258,-85.295422,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"238","3118488455","Hyla versicolor LeConte, 1825",46.855381,-87.891205,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"239","3118499576","Hyla versicolor LeConte, 1825",46.607808,-90.33447,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"240","3124792796","Hyla versicolor LeConte, 1825",44.256645,-83.44634,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"241","3355056523","Hyla versicolor LeConte, 1825",42.344437,-83.617384,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"242","3321210445","Hyla versicolor LeConte, 1825",43.051147,-85.467407,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"243","3325763432","Hyla versicolor LeConte, 1825",43.771625,-85.334847,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"244","3333395422","Hyla versicolor LeConte, 1825",43.773317,-85.334795,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"245","3124747783","Hyla versicolor LeConte, 1825",42.823738,-83.260942,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"246","3455471290","Hyla versicolor LeConte, 1825",43.612652,-85.270351,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"247","4171210270","Hyla versicolor LeConte, 1825",42.804875,-84.88513,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"248","4431028435","Hyla versicolor LeConte, 1825",42.391275,-85.38289,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"249","3302453184","Hyla versicolor LeConte, 1825",42.338586,-83.637159,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"250","3302218680","Hyla versicolor LeConte, 1825",46.232485,-89.112986,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"251","3301875971","Hyla versicolor LeConte, 1825",42.221242,-83.72512,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"252","4405152339","Hyla versicolor LeConte, 1825",42.976848,-85.422009,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"253","3859818702","Hyla versicolor LeConte, 1825",42.750639,-83.107168,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"254","3858204722","Hyla versicolor LeConte, 1825",42.750668,-83.107282,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"255","3314191219","Hyla versicolor LeConte, 1825",42.750649,-83.107251,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"256","3383893772","Hyla versicolor LeConte, 1825",42.240021,-83.711336,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"257","3343727476","Hyla versicolor LeConte, 1825",43.051025,-83.808189,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"258","4442495424","Hyla versicolor LeConte, 1825",46.753757,-87.941826,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"259","3384388782","Hyla versicolor LeConte, 1825",42.987162,-86.068476,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"260","3321105879","Hyla versicolor LeConte, 1825",42.973708,-85.750248,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"261","3321179915","Hyla versicolor LeConte, 1825",42.285822,-83.73911,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"262","3320848903","Hyla versicolor LeConte, 1825",42.285749,-83.739039,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"263","3759064621","Hyla versicolor LeConte, 1825",45.130655,-87.648497,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"264","3327876690","Hyla versicolor LeConte, 1825",43.042236,-85.700163,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"265","3456053494","Hyla versicolor LeConte, 1825",43.612651,-85.270354,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"266","4442364464","Hyla versicolor LeConte, 1825",46.697052,-89.369543,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"267","3383902833","Hyla versicolor LeConte, 1825",45.382156,-84.924803,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"268","3328067489","Hyla versicolor LeConte, 1825",42.105644,-83.322243,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"269","3337385649","Hyla versicolor LeConte, 1825",42.962612,-85.573487,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"270","3415499768","Hyla versicolor LeConte, 1825",46.792092,-88.46585,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"271","3333460400","Hyla versicolor LeConte, 1825",42.234585,-83.75647,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"272","4054885470","Hyla versicolor LeConte, 1825",44.258738,-83.44471,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"273","3337455109","Hyla versicolor LeConte, 1825",44.689952,-85.51761,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"274","3383954007","Hyla versicolor LeConte, 1825",42.733709,-85.69497,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"275","3338154273","Hyla versicolor LeConte, 1825",42.931307,-83.188092,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"276","3338101242","Hyla versicolor LeConte, 1825",44.283239,-85.299591,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"277","3337775011","Hyla versicolor LeConte, 1825",43.061136,-82.691574,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"278","4430991027","Hyla versicolor LeConte, 1825",42.314155,-83.674872,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"279","3355264860","Hyla versicolor LeConte, 1825",42.34742,-82.96376,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"280","3383968212","Hyla versicolor LeConte, 1825",42.347202,-82.963588,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"281","3385088420","Hyla versicolor LeConte, 1825",42.753625,-85.587777,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"282","3383971568","Hyla versicolor LeConte, 1825",43.199266,-85.625687,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"283","3384772089","Hyla versicolor LeConte, 1825",42.034595,-85.406813,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"284","3384542834","Hyla versicolor LeConte, 1825",43.581388,-84.865569,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"285","3408183564","Hyla versicolor LeConte, 1825",43.609203,-84.958625,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"286","3408127563","Hyla versicolor LeConte, 1825",43.581402,-84.865393,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"287","3408234569","Hyla versicolor LeConte, 1825",43.581336,-84.865399,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"288","3391326686","Hyla versicolor LeConte, 1825",43.217705,-85.54798,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"289","3399207976","Hyla versicolor LeConte, 1825",43.084499,-86.11866,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"290","3408244587","Hyla versicolor LeConte, 1825",43.581345,-84.865201,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"291","3391544251","Hyla versicolor LeConte, 1825",42.059976,-83.279096,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"292","3872930546","Hyla versicolor LeConte, 1825",43.661158,-83.914058,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2021,"iNaturalist research-grade observations"
+"293","2609222891","Hyla versicolor LeConte, 1825",42.94787,-85.573105,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"294","2609216549","Hyla versicolor LeConte, 1825",44.211767,-84.036444,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"295","3333192348","Hyla versicolor LeConte, 1825",42.236633,-83.750671,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"296","4067160403","Hyla versicolor LeConte, 1825",43.350209,-86.372715,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"297","2980999386","Hyla versicolor LeConte, 1825",42.575331,-83.378699,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"298","2981054405","Hyla versicolor LeConte, 1825",42.568032,-83.393312,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"299","2981048372","Hyla versicolor LeConte, 1825",42.568032,-83.393312,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"300","3090804732","Hyla versicolor LeConte, 1825",42.346069,-82.962718,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"301","4127965173","Hyla versicolor LeConte, 1825",43.77206,-86.1186,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2020,NA
+"302","3018071447","Hyla versicolor LeConte, 1825",46.607406,-89.579998,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"303","2860135450","Hyla versicolor LeConte, 1825",46.583414,-87.384558,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"304","2873889430","Hyla versicolor LeConte, 1825",42.227289,-85.18955,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"305","2873740430","Hyla versicolor LeConte, 1825",42.227289,-85.18955,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"306","2860166464","Hyla versicolor LeConte, 1825",46.583397,-87.388168,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"307","2873921406","Hyla versicolor LeConte, 1825",41.782915,-86.246751,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"308","2826373835","Hyla versicolor LeConte, 1825",43.817955,-86.43055,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"309","2873742434","Hyla versicolor LeConte, 1825",41.88873,-84.92288,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"310","2873885427","Hyla versicolor LeConte, 1825",46.607362,-89.58021,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"311","4127964417","Hyla versicolor LeConte, 1825",43.77206,-86.1186,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2020,NA
+"312","4127964245","Hyla versicolor LeConte, 1825",43.77206,-86.1186,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2020,NA
+"313","3333185356","Hyla versicolor LeConte, 1825",42.234509,-83.754944,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"314","3903346364","Hyla versicolor LeConte, 1825",41.953495,-85.695647,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"315","4507627461","Hyla versicolor LeConte, 1825",43.385478,-83.978897,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"316","2850532919","Hyla versicolor LeConte, 1825",45.987729,-83.723839,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"317","3090804775","Hyla versicolor LeConte, 1825",42.347312,-82.963983,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"318","2850780398","Hyla versicolor LeConte, 1825",42.528586,-85.338673,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"319","2850860962","Hyla versicolor LeConte, 1825",41.865262,-86.63817,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"320","2851053450","Hyla versicolor LeConte, 1825",45.94111,-83.605689,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"321","2859900614","Hyla versicolor LeConte, 1825",43.033231,-85.638078,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"322","2860142712","Hyla versicolor LeConte, 1825",43.035835,-85.5968,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"323","2868355599","Hyla versicolor LeConte, 1825",43.042069,-85.700285,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"324","3109112331","Hyla versicolor LeConte, 1825",42.827217,-84.377678,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"325","3391572990","Hyla versicolor LeConte, 1825",41.948149,-83.40437,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"326","2859913230","Hyla versicolor LeConte, 1825",42.825871,-84.613469,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"327","2883135463","Hyla versicolor LeConte, 1825",44.259656,-83.440841,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"328","2860275377","Hyla versicolor LeConte, 1825",42.735026,-83.203668,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"329","2860263379","Hyla versicolor LeConte, 1825",46.42788,-84.259748,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"330","2862575628","Hyla versicolor LeConte, 1825",46.501303,-87.417799,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"331","2988270677","Hyla versicolor LeConte, 1825",42.156065,-84.05126,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"332","2862372053","Hyla versicolor LeConte, 1825",42.680255,-83.053393,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"333","2864648581","Hyla versicolor LeConte, 1825",42.963017,-85.59195,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"334","3090734826","Hyla versicolor LeConte, 1825",42.347347,-82.963788,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"335","2984468463","Hyla versicolor LeConte, 1825",42.959197,-85.746645,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"336","2864579749","Hyla versicolor LeConte, 1825",42.939878,-85.620472,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"337","3018011494","Hyla versicolor LeConte, 1825",42.810237,-83.291562,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"338","2864715455","Hyla versicolor LeConte, 1825",42.994084,-85.740516,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"339","2864844706","Hyla versicolor LeConte, 1825",45.356595,-83.492158,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"340","2868315736","Hyla versicolor LeConte, 1825",44.634659,-85.770411,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"341","2868338283","Hyla versicolor LeConte, 1825",44.63232,-85.769508,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"342","3005216518","Hyla versicolor LeConte, 1825",42.933695,-85.341961,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"343","3698077037","Hyla versicolor LeConte, 1825",42.671853,-82.912138,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"344","2980830089","Hyla versicolor LeConte, 1825",42.962118,-85.703106,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"345","3061770552","Hyla versicolor LeConte, 1825",42.169307,-83.914439,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"346","2988470047","Hyla versicolor LeConte, 1825",42.962116,-85.703107,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2020,"iNaturalist research-grade observations"
+"347","2005350549","Hyla versicolor LeConte, 1825",46.708201,-89.973328,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"348","3872887558","Hyla versicolor LeConte, 1825",42.265267,-85.595703,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"349","2242914111","Hyla versicolor LeConte, 1825",42.672145,-83.059781,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"350","2251990891","Hyla versicolor LeConte, 1825",42.392726,-85.380457,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"351","4440760860","Hyla versicolor LeConte, 1825",42.720768,-84.472559,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"352","2265883363","Hyla versicolor LeConte, 1825",42.14799,-83.319034,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"353","2366021048","Hyla versicolor LeConte, 1825",42.413514,-85.380628,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"354","2283064380","Hyla versicolor LeConte, 1825",42.930478,-85.582275,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"355","2294462893","Hyla versicolor LeConte, 1825",45.729305,-86.532897,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"356","2311395081","Hyla versicolor LeConte, 1825",42.19882,-85.634872,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"357","3759054110","Hyla versicolor LeConte, 1825",42.208253,-84.330338,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"358","2366034778","Hyla versicolor LeConte, 1825",42.573559,-83.374897,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"359","2423104783","Hyla versicolor LeConte, 1825",42.827923,-84.378435,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"360","2423103443","Hyla versicolor LeConte, 1825",42.827942,-84.378387,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"361","2423104869","Hyla versicolor LeConte, 1825",42.827889,-84.378373,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"362","2423104194","Hyla versicolor LeConte, 1825",42.827873,-84.378415,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"363","2429370199","Hyla versicolor LeConte, 1825",42.540138,-83.349555,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2019,"iNaturalist research-grade observations"
+"364","1891288855","Hyla versicolor LeConte, 1825",42.731743,-83.045403,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"365","2012945996","Hyla versicolor LeConte, 1825",45.972792,-86.027091,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"366","1850904289","Hyla versicolor LeConte, 1825",42.392535,-85.381218,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"367","4062708484","Hyla versicolor LeConte, 1825",44.366247,-83.517367,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"368","2819842568","Hyla versicolor LeConte, 1825",42.59789,-84.70625,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2018,NA
+"369","2819841436","Hyla versicolor LeConte, 1825",42.70337,-84.26585,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2018,NA
+"370","2819841855","Hyla versicolor LeConte, 1825",42.59789,-84.70625,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2018,NA
+"371","1850908768","Hyla versicolor LeConte, 1825",42.48746,-85.455667,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"372","1850908944","Hyla versicolor LeConte, 1825",42.488001,-85.452197,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"373","1890667629","Hyla versicolor LeConte, 1825",46.652922,-88.869622,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"374","4112125403","Hyla versicolor LeConte, 1825",42.99528,-85.739638,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"375","1883962418","Hyla versicolor LeConte, 1825",42.683207,-82.552391,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"376","1890051046","Hyla versicolor LeConte, 1825",42.261323,-84.518015,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"377","3859092354","Hyla versicolor LeConte, 1825",41.792778,-85.996666,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"378","1913163884","Hyla versicolor LeConte, 1825",46.583446,-87.386054,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"379","1913170140","Hyla versicolor LeConte, 1825",45.703144,-87.303418,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"380","2012966539","Hyla versicolor LeConte, 1825",46.562246,-87.414901,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"381","2012998911","Hyla versicolor LeConte, 1825",43.209492,-82.833346,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"382","1932342390","Hyla versicolor LeConte, 1825",42.364481,-85.58212,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2018,"iNaturalist research-grade observations"
+"383","1562895350","Hyla versicolor LeConte, 1825",42.133898,-84.058837,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2017,"iNaturalist research-grade observations"
+"384","3070572613","Hyla versicolor LeConte, 1825",45.192133,-85.118904,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2017,"iNaturalist research-grade observations"
+"385","2850986877","Hyla versicolor LeConte, 1825",46.530549,-87.419418,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2017,"iNaturalist research-grade observations"
+"386","3067766271","Hyla versicolor LeConte, 1825",44.221053,-86.31263,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2017,"iNaturalist research-grade observations"
+"387","1586953040","Hyla versicolor LeConte, 1825",42.314924,-83.706697,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2017,"iNaturalist research-grade observations"
+"388","4054831458","Hyla versicolor LeConte, 1825",44.566172,-86.104064,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2017,"iNaturalist research-grade observations"
+"389","4440610934","Hyla versicolor LeConte, 1825",43.982517,-83.978714,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2017,"iNaturalist research-grade observations"
+"390","2236285312","Hyla versicolor LeConte, 1825",42.797762,-84.404976,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2017,"iNaturalist research-grade observations"
+"391","1668834819","Hyla versicolor LeConte, 1825",42.558613,-83.374742,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2017,"iNaturalist research-grade observations"
+"392","1306584527","Hyla versicolor LeConte, 1825",43.094462,-85.742635,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2016,"iNaturalist research-grade observations"
+"393","1891288102","Hyla versicolor LeConte, 1825",42.962495,-85.96605,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2016,"iNaturalist research-grade observations"
+"394","1270048626","Hyla versicolor LeConte, 1825",46.570537,-87.424669,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2016,"iNaturalist research-grade observations"
+"395","1270058244","Hyla versicolor LeConte, 1825",46.582887,-87.387927,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2016,"iNaturalist research-grade observations"
+"396","1291123946","Hyla versicolor LeConte, 1825",46.583337,-87.3887,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2016,"iNaturalist research-grade observations"
+"397","2576286533","Hyla versicolor LeConte, 1825",46.447406,-89.320708,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2016,"iNaturalist research-grade observations"
+"398","1586917242","Hyla versicolor LeConte, 1825",42.728133,-83.198219,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2016,"iNaturalist research-grade observations"
+"399","2862594400","Hyla versicolor LeConte, 1825",42.288072,-83.79355,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2016,"iNaturalist research-grade observations"
+"400","3759893326","Hyla versicolor LeConte, 1825",42.632792,-83.4833,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2016,"iNaturalist research-grade observations"
+"401","1802715801","Hyla versicolor LeConte, 1825",42.31719,-84.269893,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2016,"iNaturalist research-grade observations"
+"402","1291122949","Hyla versicolor LeConte, 1825",45.687368,-85.505739,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2016,"iNaturalist research-grade observations"
+"403","1891355725","Hyla versicolor LeConte, 1825",44.925415,-84.452388,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2016,"iNaturalist research-grade observations"
+"404","1586916049","Hyla versicolor LeConte, 1825",42.728269,-83.198198,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2016,"iNaturalist research-grade observations"
+"405","1323003348","Hyla versicolor LeConte, 1825",44.264752,-84.245893,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2016,"iNaturalist research-grade observations"
+"406","2819837719","Hyla versicolor LeConte, 1825",42.59769,-84.70946,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2016,NA
+"407","1987037362","Hyla versicolor LeConte, 1825",46.678527,-85.798336,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2015,NA
+"408","1891354538","Hyla versicolor LeConte, 1825",42.302022,-84.15518,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2015,"iNaturalist research-grade observations"
+"409","1572384735","Hyla versicolor LeConte, 1825",42.79414,-83.10803,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2015,"iNaturalist research-grade observations"
+"410","1987028257","Hyla versicolor LeConte, 1825",46.909026,-88.039906,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2015,NA
+"411","1891354665","Hyla versicolor LeConte, 1825",46.943301,-88.454876,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2015,"iNaturalist research-grade observations"
+"412","1640031834","Hyla versicolor LeConte, 1825",43.031976,-85.682807,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2015,"iNaturalist research-grade observations"
+"413","1306584458","Hyla versicolor LeConte, 1825",43.147514,-85.623465,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2015,"iNaturalist research-grade observations"
+"414","1891355888","Hyla versicolor LeConte, 1825",43.07156,-85.782963,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2015,"iNaturalist research-grade observations"
+"415","1315053591","Hyla versicolor LeConte, 1825",43.08325,-85.638831,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2015,"iNaturalist research-grade observations"
+"416","1323032205","Hyla versicolor LeConte, 1825",42.207661,-86.353861,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2015,"iNaturalist research-grade observations"
+"417","1323032270","Hyla versicolor LeConte, 1825",42.207661,-86.353861,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2015,"iNaturalist research-grade observations"
+"418","1987148245","Hyla versicolor LeConte, 1825",45.8089,-86.777192,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2015,NA
+"419","1987151644","Hyla versicolor LeConte, 1825",45.916681,-86.314618,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2015,NA
+"420","1987177460","Hyla versicolor LeConte, 1825",45.679241,-86.964531,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2015,NA
+"421","1306584390","Hyla versicolor LeConte, 1825",43.143284,-85.775202,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2015,"iNaturalist research-grade observations"
+"422","1453266956","Hyla versicolor LeConte, 1825",42.725891,-83.198715,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2015,"iNaturalist research-grade observations"
+"423","1987183171","Hyla versicolor LeConte, 1825",45.730122,-86.533343,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2015,NA
+"424","1987070509","Hyla versicolor LeConte, 1825",46.470723,-89.520333,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"425","1987183488","Hyla versicolor LeConte, 1825",46.442774,-89.481619,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"426","1987040167","Hyla versicolor LeConte, 1825",46.624562,-89.282261,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"427","1987056493","Hyla versicolor LeConte, 1825",46.522935,-88.88747,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"428","1987067181","Hyla versicolor LeConte, 1825",46.48661,-88.93314,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"429","1323022877","Hyla versicolor LeConte, 1825",42.400227,-85.386257,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2014,"iNaturalist research-grade observations"
+"430","1987084905","Hyla versicolor LeConte, 1825",46.498649,-88.853675,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"431","4171386306","Hyla versicolor LeConte, 1825",42.404874,-85.40141,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2014,"iNaturalist research-grade observations"
+"432","1987150637","Hyla versicolor LeConte, 1825",46.291032,-89.873611,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"433","1987184471","Hyla versicolor LeConte, 1825",46.544565,-88.88722,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"434","1987200907","Hyla versicolor LeConte, 1825",46.536746,-90.156162,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"435","1987221471","Hyla versicolor LeConte, 1825",46.521036,-90.104857,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"436","1987035528","Hyla versicolor LeConte, 1825",45.252723,-87.551258,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"437","1987044294","Hyla versicolor LeConte, 1825",46.466019,-89.501997,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"438","2013694499","Hyla versicolor LeConte, 1825",42.542254,-83.517881,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2014,"iNaturalist research-grade observations"
+"439","1987104225","Hyla versicolor LeConte, 1825",45.183592,-87.563938,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"440","1987135038","Hyla versicolor LeConte, 1825",46.406792,-89.113349,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"441","1987177449","Hyla versicolor LeConte, 1825",46.916403,-89.197434,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"442","1987187467","Hyla versicolor LeConte, 1825",45.300362,-87.537187,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"443","1987204988","Hyla versicolor LeConte, 1825",46.071198,-88.798408,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"444","3858239182","Hyla versicolor LeConte, 1825",46.584026,-87.387016,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2014,"iNaturalist research-grade observations"
+"445","4440906816","Hyla versicolor LeConte, 1825",42.167263,-85.846954,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2014,"iNaturalist research-grade observations"
+"446","4440862970","Hyla versicolor LeConte, 1825",42.167699,-85.849627,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2014,"iNaturalist research-grade observations"
+"447","1987064878","Hyla versicolor LeConte, 1825",45.676269,-86.590601,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"448","1323025748","Hyla versicolor LeConte, 1825",42.33397,-86.304692,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2014,"iNaturalist research-grade observations"
+"449","1987140481","Hyla versicolor LeConte, 1825",45.607184,-86.605177,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"450","4062930401","Hyla versicolor LeConte, 1825",42.70762,-84.565027,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2014,"iNaturalist research-grade observations"
+"451","1987071473","Hyla versicolor LeConte, 1825",46.171598,-84.11601,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"452","1987074917","Hyla versicolor LeConte, 1825",45.929944,-83.541216,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2014,NA
+"453","3070514646","Hyla versicolor LeConte, 1825",45.192057,-85.120069,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2013,"iNaturalist research-grade observations"
+"454","1987031909","Hyla versicolor LeConte, 1825",46.4758,-89.582011,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"455","1987069167","Hyla versicolor LeConte, 1825",46.306509,-89.75274,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"456","1987074958","Hyla versicolor LeConte, 1825",46.577482,-89.947041,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"457","1987100408","Hyla versicolor LeConte, 1825",46.26969,-89.729866,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"458","1987120103","Hyla versicolor LeConte, 1825",46.569442,-89.647427,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"459","1987171865","Hyla versicolor LeConte, 1825",46.415753,-89.696267,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"460","1987174281","Hyla versicolor LeConte, 1825",46.415753,-89.696267,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"461","1987181534","Hyla versicolor LeConte, 1825",46.304557,-89.733948,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"462","1987183732","Hyla versicolor LeConte, 1825",46.460802,-89.169754,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"463","1987202011","Hyla versicolor LeConte, 1825",46.53605,-89.615356,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"464","1987205949","Hyla versicolor LeConte, 1825",46.262926,-89.735184,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"465","1987208104","Hyla versicolor LeConte, 1825",46.585193,-89.541954,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"466","3070256572","Hyla versicolor LeConte, 1825",45.192205,-85.118885,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2013,"iNaturalist research-grade observations"
+"467","1987069617","Hyla versicolor LeConte, 1825",46.534692,-89.372814,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"468","1987108559","Hyla versicolor LeConte, 1825",46.439247,-89.348582,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"469","1987161229","Hyla versicolor LeConte, 1825",46.395984,-89.285611,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"470","1987173919","Hyla versicolor LeConte, 1825",46.38276,-89.17439,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"471","1987209372","Hyla versicolor LeConte, 1825",46.463383,-89.034802,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2013,NA
+"472","3070270619","Hyla versicolor LeConte, 1825",45.191927,-85.119079,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2013,"iNaturalist research-grade observations"
+"473","2603427426","Hyla versicolor LeConte, 1825",42.818421,-83.875631,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2013,"iNaturalist research-grade observations"
+"474","3860603048","Hyla versicolor LeConte, 1825",45.707778,-86.984021,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2012,"iNaturalist research-grade observations"
+"475","1987194835","Hyla versicolor LeConte, 1825",45.77926,-86.82603,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2012,NA
+"476","1987226158","Hyla versicolor LeConte, 1825",46.715534,-89.444717,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2012,NA
+"477","4442470043","Hyla versicolor LeConte, 1825",42.277635,-85.132327,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2012,"iNaturalist research-grade observations"
+"478","2826420617","Hyla versicolor LeConte, 1825",44.319169,-86.270725,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2012,"iNaturalist research-grade observations"
+"479","1987032855","Hyla versicolor LeConte, 1825",46.45709,-90.052281,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2011,NA
+"480","1987093239","Hyla versicolor LeConte, 1825",46.860709,-89.345398,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",2011,NA
+"481","2620037466","Hyla versicolor LeConte, 1825",42.488753,-85.462306,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2010,"iNaturalist research-grade observations"
+"482","2596140180","Hyla versicolor LeConte, 1825",42.488407,-85.461419,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2010,"iNaturalist research-grade observations"
+"483","911506468","Hyla versicolor LeConte, 1825",46.229424,-89.523726,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2009,"iNaturalist research-grade observations"
+"484","1453225359","Hyla versicolor LeConte, 1825",42.207279,-86.354687,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",2008,"iNaturalist research-grade observations"
+"485","29274664","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"486","29274666","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"487","29274670","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"488","29274755","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"489","29273930","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"490","29273933","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"491","29273936","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"492","29273940","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"493","29273944","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"494","29274466","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"495","29274467","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"496","29274567","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"497","29274568","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"498","29274569","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"499","29274570","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"500","29274571","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"501","29274572","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"502","29274610","Hyla versicolor LeConte, 1825",42.6843,-85.5155,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"503","29274672","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"504","29274676","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"505","29274756","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"506","29274757","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"507","29274758","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"508","29274759","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"509","29274784","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"510","29274785","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"511","29274786","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"512","29274787","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"513","29274384","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"514","29274385","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"515","29274386","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"516","29274445","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"517","29274446","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"518","29274447","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"519","29274448","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"520","29274468","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"521","29274469","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"522","29274470","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"523","29274573","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"524","29274574","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"525","29274575","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"526","29274576","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"527","29274577","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"528","29274578","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"529","29274611","Hyla versicolor LeConte, 1825",42.6843,-85.5155,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"530","29274632","Hyla versicolor LeConte, 1825",45.9589,-83.6489,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"531","29274634","Hyla versicolor LeConte, 1825",45.9589,-83.6489,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"532","29274636","Hyla versicolor LeConte, 1825",45.9589,-83.6489,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"533","29274679","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"534","29274681","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"535","29274686","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"536","29274760","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"537","29274761","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"538","29274766","Hyla versicolor LeConte, 1825",42.578,-82.6142,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"539","29274767","Hyla versicolor LeConte, 1825",42.578,-82.6142,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"540","29274768","Hyla versicolor LeConte, 1825",42.578,-82.6142,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"541","29274769","Hyla versicolor LeConte, 1825",42.578,-82.6142,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"542","29274770","Hyla versicolor LeConte, 1825",42.578,-82.6142,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"543","29274771","Hyla versicolor LeConte, 1825",42.578,-82.6142,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"544","29274772","Hyla versicolor LeConte, 1825",42.578,-82.6142,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"545","29274773","Hyla versicolor LeConte, 1825",42.578,-82.6142,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"546","29274774","Hyla versicolor LeConte, 1825",42.578,-82.6142,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"547","29274788","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"548","29274789","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"549","29274790","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"550","29274791","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"551","29274792","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"552","29274365","Hyla versicolor LeConte, 1825",45.9417,-83.5679,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"553","29274366","Hyla versicolor LeConte, 1825",45.9417,-83.5679,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"554","29274367","Hyla versicolor LeConte, 1825",45.9417,-83.5679,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"555","29274368","Hyla versicolor LeConte, 1825",45.9417,-83.5679,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"556","29274414","Hyla versicolor LeConte, 1825",45.9891,-84.228,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"557","29274415","Hyla versicolor LeConte, 1825",45.9891,-84.228,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"558","29274416","Hyla versicolor LeConte, 1825",45.9891,-84.228,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"559","29274417","Hyla versicolor LeConte, 1825",45.9891,-84.228,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"560","29274689","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2002,NA
+"561","29273915","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"562","29273917","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"563","29273920","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"564","29273924","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"565","29273927","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"566","29274304","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"567","29274306","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"568","29274311","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"569","29274313","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"570","29274410","Hyla versicolor LeConte, 1825",45.9891,-84.228,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"571","29274411","Hyla versicolor LeConte, 1825",45.9891,-84.228,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"572","29274412","Hyla versicolor LeConte, 1825",45.9891,-84.228,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"573","29274413","Hyla versicolor LeConte, 1825",45.9891,-84.228,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"574","29274463","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"575","29274464","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"576","29274555","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"577","29274556","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"578","29274557","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"579","29274558","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"580","29274559","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"581","29274560","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"582","29274561","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"583","29274562","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"584","29274627","Hyla versicolor LeConte, 1825",45.979,-83.8465,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"585","29274692","Hyla versicolor LeConte, 1825",45.9936,-83.7944,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"586","29274735","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"587","29274736","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"588","29274737","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"589","29274738","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"590","29274739","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"591","29274740","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"592","29274741","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"593","29274742","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"594","29274743","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"595","29274744","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"596","29274775","Hyla versicolor LeConte, 1825",42.8845,-83.1478,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"597","29274777","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"598","29274778","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"599","29274779","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"600","29274780","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"601","29274364","Hyla versicolor LeConte, 1825",45.9417,-83.5679,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"602","29274443","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"603","29274444","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"604","29274465","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"605","29274563","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"606","29274564","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"607","29274565","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"608","29274566","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"609","29274640","Hyla versicolor LeConte, 1825",46.003,-83.7719,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"610","29274648","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"611","29274653","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"612","29274657","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"613","29274661","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"614","29274693","Hyla versicolor LeConte, 1825",45.9936,-83.7944,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"615","29274694","Hyla versicolor LeConte, 1825",45.9936,-83.7944,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"616","29274695","Hyla versicolor LeConte, 1825",45.9936,-83.7944,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"617","29274745","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"618","29274746","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"619","29274747","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"620","29274748","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"621","29274749","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"622","29274750","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"623","29274751","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"624","29274752","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"625","29274753","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"626","29274754","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"627","29274764","Hyla versicolor LeConte, 1825",42.578,-82.6142,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"628","29274765","Hyla versicolor LeConte, 1825",42.578,-82.6142,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"629","29274776","Hyla versicolor LeConte, 1825",42.8845,-83.1478,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"630","29274781","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"631","29274782","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"632","29274783","Hyla versicolor LeConte, 1825",42.596,-85.4339,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2001,NA
+"633","29274120","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"634","29274123","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"635","29274126","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"636","29274129","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"637","29274293","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"638","29274296","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"639","29274299","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"640","29274378","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"641","29274379","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"642","29274380","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"643","29274381","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"644","29274382","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"645","29274383","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"646","29274548","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"647","29274549","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"648","29274550","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"649","29274551","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"650","29274552","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"651","29274553","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"652","29274554","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"653","29274605","Hyla versicolor LeConte, 1825",42.6843,-85.5155,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"654","29274718","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"655","29274719","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"656","29274720","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"657","29274721","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"658","29274722","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"659","29274723","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"660","29274724","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"661","29274725","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"662","29273900","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"663","29273903","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"664","29273905","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"665","29273908","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"666","29273910","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"667","29274407","Hyla versicolor LeConte, 1825",45.9891,-84.228,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"668","29274408","Hyla versicolor LeConte, 1825",45.9891,-84.228,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"669","29274409","Hyla versicolor LeConte, 1825",45.9891,-84.228,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"670","29274460","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"671","29274461","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"672","29274462","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"673","29274609","Hyla versicolor LeConte, 1825",42.6843,-85.5155,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"674","29274726","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"675","29274727","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"676","29274728","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"677","29274729","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"678","29274730","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"679","29274731","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"680","29274732","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"681","29274733","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"682","29274734","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"683","29274134","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"684","29274136","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"685","29274139","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"686","29274646","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"687","29274762","Hyla versicolor LeConte, 1825",42.7475,-85.8305,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"688","29274763","Hyla versicolor LeConte, 1825",42.7475,-85.8305,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",2000,NA
+"689","29273873","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"690","29273876","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"691","29273879","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"692","29273882","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"693","29273968","Hyla versicolor LeConte, 1825",43.6865,-83.934,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"694","29274276","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"695","29274279","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"696","29274283","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"697","29274286","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"698","29274290","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"699","29274360","Hyla versicolor LeConte, 1825",42.5471,-85.3197,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"700","29274536","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"701","29274537","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"702","29274538","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"703","29274539","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"704","29274540","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"705","29274541","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"706","29274542","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"707","29274543","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"708","29274603","Hyla versicolor LeConte, 1825",42.6843,-85.5155,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"709","29274696","Hyla versicolor LeConte, 1825",46.0283,-83.6908,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"710","29273885","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"711","29273888","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"712","29273891","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"713","29273894","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"714","29273897","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"715","29274099","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"716","29274102","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"717","29274105","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"718","29274108","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"719","29274111","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"720","29274374","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"721","29274375","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"722","29274376","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"723","29274377","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"724","29274424","Hyla versicolor LeConte, 1825",45.98,-84.4044,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"725","29274425","Hyla versicolor LeConte, 1825",45.98,-84.4044,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"726","29274426","Hyla versicolor LeConte, 1825",45.98,-84.4044,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"727","29274427","Hyla versicolor LeConte, 1825",45.98,-84.4044,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"728","29274544","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"729","29274545","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"730","29274546","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"731","29274547","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"732","29274115","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"733","29274117","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"734","29274361","Hyla versicolor LeConte, 1825",42.5471,-85.3197,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"735","29274697","Hyla versicolor LeConte, 1825",46.0283,-83.6908,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"736","29274698","Hyla versicolor LeConte, 1825",46.0283,-83.6908,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1999,NA
+"737","29274357","Hyla versicolor LeConte, 1825",42.5471,-85.3197,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"738","29274616","Hyla versicolor LeConte, 1825",45.979,-83.8465,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"739","29274699","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"740","29274700","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"741","29274701","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"742","29274702","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"743","29274066","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"744","29274069","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"745","29274072","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"746","29274075","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"747","29274078","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"748","29274258","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"749","29274261","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"750","29274265","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"751","29274268","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"752","29274272","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"753","29274342","Hyla versicolor LeConte, 1825",46.5666,-88.0008,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"754","29274343","Hyla versicolor LeConte, 1825",46.5666,-88.0008,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"755","29274358","Hyla versicolor LeConte, 1825",42.5471,-85.3197,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"756","29274371","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"757","29274436","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"758","29274437","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"759","29274438","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"760","29274458","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"761","29274475","Hyla versicolor LeConte, 1825",44.6304,-84.8079,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"762","29274526","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"763","29274527","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"764","29274528","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"765","29274529","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"766","29274530","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"767","29274531","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"768","29274532","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"769","29274618","Hyla versicolor LeConte, 1825",45.979,-83.8465,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"770","29274621","Hyla versicolor LeConte, 1825",45.979,-83.8465,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"771","29274624","Hyla versicolor LeConte, 1825",45.979,-83.8465,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"772","29274643","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"773","29274703","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"774","29274704","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"775","29274705","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"776","29274706","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"777","29274707","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"778","29274708","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"779","29274709","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"780","29274710","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"781","29274711","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"782","29274712","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"783","29273856","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"784","29273858","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"785","29273863","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"786","29273866","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"787","29273870","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"788","29274081","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"789","29274344","Hyla versicolor LeConte, 1825",46.5666,-88.0008,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"790","29274345","Hyla versicolor LeConte, 1825",46.5666,-88.0008,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"791","29274359","Hyla versicolor LeConte, 1825",42.5471,-85.3197,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"792","29274372","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"793","29274373","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"794","29274439","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"795","29274440","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"796","29274441","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"797","29274442","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"798","29274459","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"799","29274533","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"800","29274534","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"801","29274535","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"802","29274713","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"803","29274714","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"804","29274715","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"805","29274716","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"806","29274717","Hyla versicolor LeConte, 1825",42.7125,-83.17,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"807","29274084","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"808","29274087","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"809","29274090","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"810","29274093","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"811","29274096","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"812","1147137703","Hyla versicolor LeConte, 1825",42.336889,-84.226067,"PRESENT","MACHINE_OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"813","1147146739","Hyla versicolor LeConte, 1825",42.336889,-84.226067,"PRESENT","MACHINE_OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"814","1147223772","Hyla versicolor LeConte, 1825",42.336889,-84.226067,"PRESENT","MACHINE_OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"815","1147248818","Hyla versicolor LeConte, 1825",42.336889,-84.226067,"PRESENT","MACHINE_OBSERVATION","NORTH_AMERICA","Michigan",1998,NA
+"816","29274369","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"817","29274370","Hyla versicolor LeConte, 1825",46.0088,-83.7322,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"818","29274454","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"819","29274484","Hyla versicolor LeConte, 1825",42.1085,-85.2547,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"820","29274518","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"821","29274519","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"822","29274520","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"823","29274579","Hyla versicolor LeConte, 1825",46.02,-84.4452,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"824","29274583","Hyla versicolor LeConte, 1825",45.9806,-84.2036,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"825","29274584","Hyla versicolor LeConte, 1825",45.9806,-84.2036,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"826","29273837","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"827","29273840","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"828","29273843","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"829","29273846","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"830","29273849","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"831","29273853","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"832","29273947","Hyla versicolor LeConte, 1825",43.4036,-86.3511,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"833","29273949","Hyla versicolor LeConte, 1825",43.4036,-86.3511,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"834","29274032","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"835","29274035","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"836","29274038","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"837","29274041","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"838","29274044","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"839","29274047","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"840","29274052","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"841","29274055","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"842","29274058","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"843","29274061","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"844","29274064","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"845","29274159","Hyla versicolor LeConte, 1825",46.0854,-88.8153,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"846","29274162","Hyla versicolor LeConte, 1825",46.0854,-88.8153,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"847","29274166","Hyla versicolor LeConte, 1825",46.0854,-88.8153,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"848","29274169","Hyla versicolor LeConte, 1825",46.0854,-88.8153,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"849","29274172","Hyla versicolor LeConte, 1825",46.0854,-88.8153,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"850","29274207","Hyla versicolor LeConte, 1825",42.788,-83.1965,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"851","29274211","Hyla versicolor LeConte, 1825",42.788,-83.1965,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"852","29274214","Hyla versicolor LeConte, 1825",42.788,-83.1965,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"853","29274217","Hyla versicolor LeConte, 1825",42.788,-83.1965,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"854","29274220","Hyla versicolor LeConte, 1825",42.788,-83.1965,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"855","29274338","Hyla versicolor LeConte, 1825",46.5666,-88.0008,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"856","29274339","Hyla versicolor LeConte, 1825",46.5666,-88.0008,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"857","29274340","Hyla versicolor LeConte, 1825",46.5666,-88.0008,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"858","29274341","Hyla versicolor LeConte, 1825",46.5666,-88.0008,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"859","29274355","Hyla versicolor LeConte, 1825",42.5471,-85.3197,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"860","29274362","Hyla versicolor LeConte, 1825",45.9417,-83.5679,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"861","29274363","Hyla versicolor LeConte, 1825",45.9417,-83.5679,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"862","29274418","Hyla versicolor LeConte, 1825",45.98,-84.4044,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"863","29274419","Hyla versicolor LeConte, 1825",45.98,-84.4044,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"864","29274420","Hyla versicolor LeConte, 1825",45.98,-84.4044,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"865","29274421","Hyla versicolor LeConte, 1825",45.98,-84.4044,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"866","29274422","Hyla versicolor LeConte, 1825",45.98,-84.4044,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"867","29274423","Hyla versicolor LeConte, 1825",45.98,-84.4044,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"868","29274428","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"869","29274429","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"870","29274430","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"871","29274431","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"872","29274432","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"873","29274433","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"874","29274434","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"875","29274435","Hyla versicolor LeConte, 1825",45.9895,-84.3234,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"876","29274455","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"877","29274456","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"878","29274457","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"879","29274473","Hyla versicolor LeConte, 1825",44.6304,-84.8079,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"880","29274474","Hyla versicolor LeConte, 1825",44.6304,-84.8079,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"881","29274485","Hyla versicolor LeConte, 1825",42.1085,-85.2547,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"882","29274486","Hyla versicolor LeConte, 1825",42.1085,-85.2547,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"883","29274500","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"884","29274501","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"885","29274507","Hyla versicolor LeConte, 1825",42.0708,-85.2873,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"886","29274521","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"887","29274522","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"888","29274523","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"889","29274524","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"890","29274525","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"891","29274580","Hyla versicolor LeConte, 1825",43.4095,-86.3491,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"892","29274581","Hyla versicolor LeConte, 1825",43.4095,-86.3491,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"893","29274586","Hyla versicolor LeConte, 1825",45.9806,-84.2036,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"894","29274589","Hyla versicolor LeConte, 1825",45.9806,-84.2036,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"895","29274590","Hyla versicolor LeConte, 1825",45.9806,-84.2036,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"896","29274593","Hyla versicolor LeConte, 1825",43.3851,-86.3876,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"897","29274596","Hyla versicolor LeConte, 1825",43.3851,-86.3876,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"898","29274599","Hyla versicolor LeConte, 1825",43.4134,-86.351,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"899","29274602","Hyla versicolor LeConte, 1825",43.4134,-86.351,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"900","29274629","Hyla versicolor LeConte, 1825",45.9589,-83.6489,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"901","29274639","Hyla versicolor LeConte, 1825",46.003,-83.7719,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"902","29274642","Hyla versicolor LeConte, 1825",45.9761,-83.9128,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"903","29274690","Hyla versicolor LeConte, 1825",45.9857,-83.6944,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"904","29274691","Hyla versicolor LeConte, 1825",45.9857,-83.6944,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"905","29274356","Hyla versicolor LeConte, 1825",42.5471,-85.3197,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"906","29274582","Hyla versicolor LeConte, 1825",43.4095,-86.3491,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"907","29274613","Hyla versicolor LeConte, 1825",45.979,-83.8465,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1997,NA
+"908","29273958","Hyla versicolor LeConte, 1825",43.6865,-83.934,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"909","29274346","Hyla versicolor LeConte, 1825",45.0413,-83.4096,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"910","29274347","Hyla versicolor LeConte, 1825",45.0413,-83.4096,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"911","29274348","Hyla versicolor LeConte, 1825",45.0413,-83.4096,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"912","29274349","Hyla versicolor LeConte, 1825",45.0413,-83.4096,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"913","29274353","Hyla versicolor LeConte, 1825",42.5471,-85.3197,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"914","29274388","Hyla versicolor LeConte, 1825",42.6358,-86.1545,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"915","29274400","Hyla versicolor LeConte, 1825",46.0238,-84.4203,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"916","29274401","Hyla versicolor LeConte, 1825",46.0238,-84.4203,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"917","29274449","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"918","29274450","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"919","29274451","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"920","29274471","Hyla versicolor LeConte, 1825",44.6304,-84.8079,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"921","29273813","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"922","29273816","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"923","29273819","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"924","29273822","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"925","29273825","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"926","29273828","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"927","29273831","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"928","29273835","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"929","29273961","Hyla versicolor LeConte, 1825",43.6865,-83.934,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"930","29273965","Hyla versicolor LeConte, 1825",43.6865,-83.934,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"931","29273985","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"932","29273988","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"933","29273991","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"934","29273995","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"935","29273998","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"936","29274001","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"937","29274004","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"938","29274007","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"939","29274010","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"940","29274013","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"941","29274022","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"942","29274025","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"943","29274030","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"944","29274151","Hyla versicolor LeConte, 1825",46.0854,-88.8153,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"945","29274154","Hyla versicolor LeConte, 1825",46.0854,-88.8153,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"946","29274156","Hyla versicolor LeConte, 1825",46.0854,-88.8153,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"947","29274197","Hyla versicolor LeConte, 1825",42.788,-83.1965,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"948","29274200","Hyla versicolor LeConte, 1825",42.788,-83.1965,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"949","29274204","Hyla versicolor LeConte, 1825",42.788,-83.1965,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"950","29274236","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"951","29274239","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"952","29274242","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"953","29274247","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"954","29274250","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"955","29274252","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"956","29274255","Hyla versicolor LeConte, 1825",44.3225,-84.8276,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"957","29274318","Hyla versicolor LeConte, 1825",42.39,-84.1584,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"958","29274321","Hyla versicolor LeConte, 1825",42.39,-84.1584,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"959","29274324","Hyla versicolor LeConte, 1825",42.39,-84.1584,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"960","29274327","Hyla versicolor LeConte, 1825",42.39,-84.1584,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"961","29274330","Hyla versicolor LeConte, 1825",42.39,-84.1584,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"962","29274331","Hyla versicolor LeConte, 1825",42.39,-84.1584,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"963","29274332","Hyla versicolor LeConte, 1825",42.39,-84.1584,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"964","29274333","Hyla versicolor LeConte, 1825",46.5666,-88.0008,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"965","29274334","Hyla versicolor LeConte, 1825",46.5666,-88.0008,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"966","29274335","Hyla versicolor LeConte, 1825",46.5666,-88.0008,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"967","29274336","Hyla versicolor LeConte, 1825",46.5666,-88.0008,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"968","29274337","Hyla versicolor LeConte, 1825",46.5666,-88.0008,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"969","29274350","Hyla versicolor LeConte, 1825",45.0413,-83.4096,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"970","29274351","Hyla versicolor LeConte, 1825",45.0413,-83.4096,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"971","29274352","Hyla versicolor LeConte, 1825",45.0413,-83.4096,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"972","29274354","Hyla versicolor LeConte, 1825",42.5471,-85.3197,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"973","29274387","Hyla versicolor LeConte, 1825",42.3155,-85.019,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"974","29274389","Hyla versicolor LeConte, 1825",42.6358,-86.1545,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"975","29274390","Hyla versicolor LeConte, 1825",42.6358,-86.1545,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"976","29274391","Hyla versicolor LeConte, 1825",46.0221,-84.4243,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"977","29274392","Hyla versicolor LeConte, 1825",46.0221,-84.4243,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"978","29274393","Hyla versicolor LeConte, 1825",46.0221,-84.4243,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"979","29274394","Hyla versicolor LeConte, 1825",46.0221,-84.4243,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"980","29274402","Hyla versicolor LeConte, 1825",46.0238,-84.4203,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"981","29274403","Hyla versicolor LeConte, 1825",46.0238,-84.4203,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"982","29274404","Hyla versicolor LeConte, 1825",45.5503,-84.4669,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"983","29274405","Hyla versicolor LeConte, 1825",45.5503,-84.4669,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"984","29274406","Hyla versicolor LeConte, 1825",45.9891,-84.228,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"985","29274452","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"986","29274453","Hyla versicolor LeConte, 1825",41.8261,-86.0209,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"987","29274472","Hyla versicolor LeConte, 1825",44.6304,-84.8079,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"988","29274476","Hyla versicolor LeConte, 1825",43.4252,-86.3246,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"989","29274477","Hyla versicolor LeConte, 1825",43.4252,-86.3246,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"990","29274478","Hyla versicolor LeConte, 1825",43.4252,-86.3246,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"991","29274479","Hyla versicolor LeConte, 1825",43.4252,-86.3246,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"992","29274482","Hyla versicolor LeConte, 1825",42.1085,-85.2547,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"993","29274483","Hyla versicolor LeConte, 1825",42.1085,-85.2547,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"994","29274494","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"995","29274495","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"996","29274496","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"997","29274497","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"998","29274498","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"999","29274499","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1000","29274505","Hyla versicolor LeConte, 1825",42.0708,-85.2873,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1001","29274506","Hyla versicolor LeConte, 1825",42.0708,-85.2873,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1002","29274508","Hyla versicolor LeConte, 1825",47.01,-88.4848,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1003","29274509","Hyla versicolor LeConte, 1825",47.01,-88.4848,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1004","29274510","Hyla versicolor LeConte, 1825",47.01,-88.4848,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1005","29274511","Hyla versicolor LeConte, 1825",47.01,-88.4848,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1006","29274512","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1007","29274513","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1008","29274514","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1009","29274515","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1010","29274516","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1011","29274395","Hyla versicolor LeConte, 1825",46.0221,-84.4243,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1012","29274396","Hyla versicolor LeConte, 1825",46.0221,-84.4243,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1013","29274397","Hyla versicolor LeConte, 1825",46.0221,-84.4243,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1014","29274398","Hyla versicolor LeConte, 1825",46.0221,-84.4243,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1015","29274399","Hyla versicolor LeConte, 1825",46.0221,-84.4243,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1016","29274517","Hyla versicolor LeConte, 1825",42.9044,-83.4206,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1996,NA
+"1017","29273785","Hyla versicolor LeConte, 1825",42.9208,-83.5203,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1018","29273789","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1019","29273791","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1020","29273796","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1021","29273798","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1022","29273952","Hyla versicolor LeConte, 1825",43.6865,-83.934,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1023","29273955","Hyla versicolor LeConte, 1825",43.6865,-83.934,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1024","29273971","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1025","29273975","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1026","29274223","Hyla versicolor LeConte, 1825",43.0214,-83.3405,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1027","29274226","Hyla versicolor LeConte, 1825",43.0214,-83.3405,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1028","29274230","Hyla versicolor LeConte, 1825",43.0214,-83.3405,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1029","29274233","Hyla versicolor LeConte, 1825",43.0214,-83.3405,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1030","29274487","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1031","29274488","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1032","29274502","Hyla versicolor LeConte, 1825",42.0708,-85.2873,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1033","29273801","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1034","29273805","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1035","29273809","Hyla versicolor LeConte, 1825",43.8601,-83.3577,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1036","29273979","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1037","29273982","Hyla versicolor LeConte, 1825",42.7733,-84.4037,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1038","29274142","Hyla versicolor LeConte, 1825",46.0854,-88.8153,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1039","29274145","Hyla versicolor LeConte, 1825",46.0854,-88.8153,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1040","29274148","Hyla versicolor LeConte, 1825",46.0854,-88.8153,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1041","29274177","Hyla versicolor LeConte, 1825",42.788,-83.1965,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1042","29274180","Hyla versicolor LeConte, 1825",42.788,-83.1965,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1043","29274185","Hyla versicolor LeConte, 1825",42.788,-83.1965,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1044","29274189","Hyla versicolor LeConte, 1825",42.788,-83.1965,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1045","29274193","Hyla versicolor LeConte, 1825",42.788,-83.1965,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1046","29274480","Hyla versicolor LeConte, 1825",42.1085,-85.2547,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1047","29274481","Hyla versicolor LeConte, 1825",42.1085,-85.2547,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1048","29274489","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1049","29274490","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1050","29274491","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1051","29274492","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1052","29274493","Hyla versicolor LeConte, 1825",42.1003,-85.3181,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1053","29274503","Hyla versicolor LeConte, 1825",42.0708,-85.2873,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1054","29274504","Hyla versicolor LeConte, 1825",42.0708,-85.2873,"PRESENT","OBSERVATION","NORTH_AMERICA","Michigan",1995,NA
+"1055","1019037505","Hyla versicolor LeConte, 1825",46.2678,-89.1778,"PRESENT","HUMAN_OBSERVATION","NORTH_AMERICA","Michigan",1988,NA
+"1056","1211734181","Hyla versicolor LeConte, 1825",42.3286232,-84.2349212,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1986,"Herpetology"
+"1057","1211734198","Hyla versicolor LeConte, 1825",42.3286232,-84.2349212,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1986,"Herpetology"
+"1058","1211734220","Hyla versicolor LeConte, 1825",42.2919745,-84.2890278,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1986,"Herpetology"
+"1059","1211734271","Hyla versicolor LeConte, 1825",42.3286232,-84.2349212,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1986,"Herpetology"
+"1060","1211734290","Hyla versicolor LeConte, 1825",42.3286232,-84.2349212,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1986,"Herpetology"
+"1061","1211734300","Hyla versicolor LeConte, 1825",42.3286232,-84.2349212,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1986,"Herpetology"
+"1062","1211734315","Hyla versicolor LeConte, 1825",42.2919745,-84.2890278,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1986,"Herpetology"
+"1063","1211734320","Hyla versicolor LeConte, 1825",42.3286232,-84.2349212,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1986,"Herpetology"
+"1064","1211734324","Hyla versicolor LeConte, 1825",42.2919745,-84.2890278,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1986,"Herpetology"
+"1065","1211734348","Hyla versicolor LeConte, 1825",42.3286232,-84.2349212,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1986,"Herpetology"
+"1066","1211734371","Hyla versicolor LeConte, 1825",42.3286232,-84.2349212,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1986,"Herpetology"
+"1067","1987144238","Hyla versicolor LeConte, 1825",45.06355,-84.70479,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1979,NA
+"1068","1987206653","Hyla versicolor LeConte, 1825",42.33833,-84.23472,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1979,NA
+"1069","1987038015","Hyla versicolor LeConte, 1825",41.98194,-86.56361,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1976,NA
+"1070","1987084346","Hyla versicolor LeConte, 1825",41.98194,-86.56361,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1976,NA
+"1071","1987050663","Hyla versicolor LeConte, 1825",42.32922,-84.19929,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1072","1987062697","Hyla versicolor LeConte, 1825",42.32922,-84.19929,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1073","1987062553","Hyla versicolor LeConte, 1825",42.32922,-84.19929,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1074","1987075114","Hyla versicolor LeConte, 1825",42.37242,-84.10141,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1075","1987108058","Hyla versicolor LeConte, 1825",42.37242,-84.10141,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1076","1987111724","Hyla versicolor LeConte, 1825",42.35851,-84.08333,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1077","1987115614","Hyla versicolor LeConte, 1825",42.20165,-83.92535,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1078","1987120627","Hyla versicolor LeConte, 1825",42.32922,-84.19929,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1079","1987121856","Hyla versicolor LeConte, 1825",42.41737,-84.10368,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1080","1987127270","Hyla versicolor LeConte, 1825",42.37242,-84.10141,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1081","1987132591","Hyla versicolor LeConte, 1825",42.37242,-84.10141,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1082","1987173232","Hyla versicolor LeConte, 1825",42.37242,-84.10141,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1083","1987177402","Hyla versicolor LeConte, 1825",42.32922,-84.19929,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1084","1987197944","Hyla versicolor LeConte, 1825",42.41737,-84.10368,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1085","1987202709","Hyla versicolor LeConte, 1825",42.35851,-84.08333,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1086","1987227351","Hyla versicolor LeConte, 1825",42.20165,-83.92535,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1087","1987079663","Hyla versicolor LeConte, 1825",42.37242,-84.10141,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1088","476633081","Hyla versicolor LeConte, 1825",42.3365944,-83.8832559,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1089","1987028582","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1090","1987028595","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1091","1987032069","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1092","1987033111","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1093","1987043171","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1094","1987043451","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1095","1987050896","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1096","1987053438","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1097","1987054800","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1098","1987061214","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1099","1987062826","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1100","1987063319","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1101","1987064899","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1102","1987083526","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1103","1987094735","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1104","1987101607","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1105","1987116024","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1106","1987119725","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1107","1987130965","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1108","1987133409","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1109","1987137358","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1110","1987140116","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1111","1987142937","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1112","1987153206","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1113","1987157399","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1114","1987165581","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1115","1987179187","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1116","1987179782","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1117","1987186611","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1118","1987190516","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1119","1987229076","Hyla versicolor LeConte, 1825",42.32707,-84.23978,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1975,NA
+"1120","1211728278","Hyla versicolor LeConte, 1825",42.3286232,-84.2349212,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1974,"Herpetology"
+"1121","1987074654","Hyla versicolor LeConte, 1825",44.60167,-83.60889,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1968,NA
+"1122","686835993","Hyla versicolor LeConte, 1825",42.3002749,-83.7007005,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1967,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1123","686835994","Hyla versicolor LeConte, 1825",42.3002749,-83.7007005,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1967,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1124","686882890","Hyla versicolor LeConte, 1825",42.299298,-85.7870428,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1965,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1125","2816163895","Hyla versicolor LeConte, 1825",42.79628,-84.39287,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1960,NA
+"1126","2816163894","Hyla versicolor LeConte, 1825",42.71474,-84.4737,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1960,NA
+"1127","1987089380","Hyla versicolor LeConte, 1825",42.38831,-84.33897,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1957,NA
+"1128","1987182605","Hyla versicolor LeConte, 1825",44.36872,-84.5799,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1957,NA
+"1129","1987221195","Hyla versicolor LeConte, 1825",43.59667,-85.14472,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1957,NA
+"1130","1987055057","Hyla versicolor LeConte, 1825",42.73195,-85.81189,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1956,NA
+"1131","1987168183","Hyla versicolor LeConte, 1825",42.395,-83.72917,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1954,NA
+"1132","2816163874","Hyla versicolor LeConte, 1825",42.28028,-83.93782,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1953,NA
+"1133","2816163878","Hyla versicolor LeConte, 1825",42.56646,-83.52191,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1953,NA
+"1134","1987164710","Hyla versicolor LeConte, 1825",45.17797,-84.41713,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1953,NA
+"1135","2816163871","Hyla versicolor LeConte, 1825",42.28511,-83.67033,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1953,NA
+"1136","2816163731","Hyla versicolor LeConte, 1825",42.28545,-83.67069,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1953,NA
+"1137","2816163729","Hyla versicolor LeConte, 1825",42.28655,-83.67039,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1953,NA
+"1138","2816163727","Hyla versicolor LeConte, 1825",42.2864,-83.67056,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1953,NA
+"1139","2816163898","Hyla versicolor LeConte, 1825",42.38012,-83.78575,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1953,NA
+"1140","686676318","Hyla versicolor LeConte, 1825",42.292685,-83.6829899,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1950,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1141","686676319","Hyla versicolor LeConte, 1825",42.292685,-83.6829899,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1950,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1142","686676320","Hyla versicolor LeConte, 1825",42.292685,-83.6829899,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1950,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1143","686676317","Hyla versicolor LeConte, 1825",42.292685,-83.6829899,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1950,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1144","686682433","Hyla versicolor LeConte, 1825",42.5228625,-83.7505722,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1950,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1145","686682434","Hyla versicolor LeConte, 1825",42.5228625,-83.7505722,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1950,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1146","686682435","Hyla versicolor LeConte, 1825",42.5228625,-83.7505722,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1950,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1147","686682430","Hyla versicolor LeConte, 1825",42.5228625,-83.7505722,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1950,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1148","686682431","Hyla versicolor LeConte, 1825",42.5228625,-83.7505722,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1950,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1149","686682432","Hyla versicolor LeConte, 1825",42.5228625,-83.7505722,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1950,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1150","686682427","Hyla versicolor LeConte, 1825",42.5228625,-83.7505722,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1950,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1151","686682428","Hyla versicolor LeConte, 1825",42.5228625,-83.7505722,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1950,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1152","686682429","Hyla versicolor LeConte, 1825",42.5228625,-83.7505722,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1950,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1153","1987075759","Hyla versicolor LeConte, 1825",42.40306,-86.27361,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1950,NA
+"1154","1987050272","Hyla versicolor LeConte, 1825",46.31121,-87.35607,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1949,NA
+"1155","1987057011","Hyla versicolor LeConte, 1825",46.31121,-87.35607,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1949,NA
+"1156","1987081067","Hyla versicolor LeConte, 1825",43.18639,-82.86167,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1947,NA
+"1157","1987081206","Hyla versicolor LeConte, 1825",42.7904,-84.41482,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1947,NA
+"1158","1987228694","Hyla versicolor LeConte, 1825",42.44139,-84.92417,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1942,NA
+"1159","1987089306","Hyla versicolor LeConte, 1825",42.27083,-83.72639,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1942,NA
+"1160","1987074079","Hyla versicolor LeConte, 1825",44.35,-83.94167,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1941,NA
+"1161","1987198135","Hyla versicolor LeConte, 1825",42.93613,-85.2611,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1940,NA
+"1162","1987216930","Hyla versicolor LeConte, 1825",46.85873,-87.84427,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1940,NA
+"1163","657432513","Hyla versicolor LeConte, 1825",42.3374951,-84.2361253,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1939,"LACM Vertebrates"
+"1164","1318616393","Hyla versicolor LeConte, 1825",42.0593566,-84.8853049,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1939,"NMNH Extant Biology"
+"1165","1987061291","Hyla versicolor LeConte, 1825",42.27222,-84.96333,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1938,NA
+"1166","1987034138","Hyla versicolor LeConte, 1825",42.56361,-84.83583,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1938,NA
+"1167","1987156104","Hyla versicolor LeConte, 1825",42.45139,-84.4325,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1938,NA
+"1168","1987102440","Hyla versicolor LeConte, 1825",44.02028,-84.79417,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1938,NA
+"1169","1987118008","Hyla versicolor LeConte, 1825",42.26111,-84.21694,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1938,NA
+"1170","1987055716","Hyla versicolor LeConte, 1825",47.4575,-88.09833,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1938,NA
+"1171","1987101323","Hyla versicolor LeConte, 1825",42.67389,-85.64472,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1938,NA
+"1172","1987048509","Hyla versicolor LeConte, 1825",42.27083,-83.72639,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1936,NA
+"1173","44983698","Hyla versicolor LeConte, 1825",42.25663,-83.8374,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1936,NA
+"1174","44983699","Hyla versicolor LeConte, 1825",42.25663,-83.8374,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1936,NA
+"1175","1987172116","Hyla versicolor LeConte, 1825",42.3975,-85.38528,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1935,NA
+"1176","1987068593","Hyla versicolor LeConte, 1825",42.97861,-84.17583,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1933,NA
+"1177","4093485889","Hyla versicolor LeConte, 1825",42.293026,-83.798685,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1932,NA
+"1178","1987115658","Hyla versicolor LeConte, 1825",46.54361,-87.39528,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1930,NA
+"1179","1987166921","Hyla versicolor LeConte, 1825",44.81694,-84.97,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1930,NA
+"1180","686713931","Hyla versicolor LeConte, 1825",45.5753668,-84.6984712,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1929,"University of Kansas Biodiversity Institute Herpetology Collection"
+"1181","1320324416","Hyla versicolor LeConte, 1825",45.5807288,-84.6973052,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1927,"NMNH Extant Biology"
+"1182","1321449473","Hyla versicolor LeConte, 1825",45.4541296,-84.4556975,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1925,"NMNH Extant Biology"
+"1183","1987040875","Hyla versicolor LeConte, 1825",43.77333,-85.5025,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1925,NA
+"1184","1987062445","Hyla versicolor LeConte, 1825",42.52417,-84.19083,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1922,NA
+"1185","1987155714","Hyla versicolor LeConte, 1825",42.52417,-84.19083,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1922,NA
+"1186","1145651392","Hyla versicolor LeConte, 1825",42.2686551,-83.8452747,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1922,NA
+"1187","1987100961","Hyla versicolor LeConte, 1825",42.52417,-84.19083,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1922,NA
+"1188","1987130055","Hyla versicolor LeConte, 1825",42.12465,-84.14415,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1921,NA
+"1189","1987036042","Hyla versicolor LeConte, 1825",41.91528,-86.58472,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1920,NA
+"1190","1987099931","Hyla versicolor LeConte, 1825",43.37889,-84.65972,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1920,NA
+"1191","1987114707","Hyla versicolor LeConte, 1825",41.87194,-86.62889,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1917,NA
+"1192","1987159313","Hyla versicolor LeConte, 1825",41.87194,-86.62889,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1917,NA
+"1193","1987035897","Hyla versicolor LeConte, 1825",42.32222,-83.17639,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1917,NA
+"1194","1987087971","Hyla versicolor LeConte, 1825",42.32222,-83.17639,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1917,NA
+"1195","1987035589","Hyla versicolor LeConte, 1825",43.91194,-83.39722,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1908,NA
+"1196","1987078515","Hyla versicolor LeConte, 1825",43.91194,-83.39722,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1908,NA
+"1197","1987074874","Hyla versicolor LeConte, 1825",43.94111,-83.27139,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1908,NA
+"1198","1987096438","Hyla versicolor LeConte, 1825",43.94111,-83.27139,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1908,NA
+"1199","1987175383","Hyla versicolor LeConte, 1825",43.91194,-83.39722,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1908,NA
+"1200","1987212954","Hyla versicolor LeConte, 1825",42.25778,-83.52417,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1904,NA
+"1201","1987058388","Hyla versicolor LeConte, 1825",42.27083,-83.72639,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1903,NA
+"1202","1987059517","Hyla versicolor LeConte, 1825",42.27083,-83.72639,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1903,NA
+"1203","1987203983","Hyla versicolor LeConte, 1825",42.52944,-83.78028,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1903,NA
+"1204","1987105679","Hyla versicolor LeConte, 1825",42.27083,-83.72639,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1903,NA
+"1205","1987159617","Hyla versicolor LeConte, 1825",42.27083,-83.72639,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1903,NA
+"1206","1320193618","Hyla versicolor LeConte, 1825",42.4417524,-84.9239067,"PRESENT","PRESERVED_SPECIMEN","NORTH_AMERICA","Michigan",1903,"NMNH Extant Biology"
